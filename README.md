@@ -15,6 +15,7 @@
 
 - 📄 Know about my experiences [resumelink.com](resumelink.com)
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kevin" height="30" width="40" /></a>
