@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kevin</h1>
 <h3 align="center">A passionate student - Fullstack Developer</h3>
-<i>
-  I love building web apps in **React** , and exploring the world of **open-source**. If you're interested in a future collaboration or just want to say "hi", feel free send me <a href="mailto:kevin@gmail.com">an email</a>.</i>
+  I love building web apps in <b>React</b> , and exploring the world of <b>open-source, C++, ...</b>. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
 <p>
   
 <a href="mailto:kevin@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/dkevin96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kevin/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -31,7 +30,8 @@
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkevin96&show_icons=true&locale=en" alt="mygithubusernam" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkevin96&layout=compact" alt="mygithubusernam" /></p>
 
 <!---
 <details>
