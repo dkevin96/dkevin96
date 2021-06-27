@@ -7,6 +7,7 @@
 </p>
 <hr>
 <h3>About Me </h3>
+
 - 🔭 I’m currently pursuing my Bachelor Degree in **Electrical Engineering**
 
 - 🌱 I’m currently learning **React, Nodejs**
