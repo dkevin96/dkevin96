@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kevin</h1>
 <h3 align="center">A passionate student - Fullstack Developer</h3>
-  I love building web apps in <b>React</b> , and exploring the world of <b>open-source, C++, ...</b>. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
+  I love building web apps in <b>React, C++</b> , and exploring the world of <b>open-source</b>. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
 <p>
   
 <a href="mailto:kevin@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/dkevin96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kevin/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -32,7 +32,7 @@
 </p>
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkevin96&layout=compact" alt="mygithubusernam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkevin96&layout=compact&langs_count=8" alt="mygithubusernam" /></p>
 
 <!---
 <details>
