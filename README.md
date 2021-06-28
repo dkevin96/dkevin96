@@ -4,11 +4,18 @@
   I love building web apps in <b>React, C++</b> , and exploring the world of <b>open-source</b>. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
   </p>
 <p align="center">
-<a href="mailto:kevin@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/dkevin96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kevin/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- <a href="mailto:kevin@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/dkevin96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kevin/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+  <a href="https://www.linkedin.com/"><img src="./linkedin.png" width="40" /></a>
+<a href="https://github.com/"><img src="./github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/"><img src="./facebook.png" width="40" /></a>
+<a href="mailto:kevinducphan96@gmail.com"><img src="./google-plus.png" width="40" /></a>
+<a href="https://twitter.com/"><img src="./twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/"><img src="./instagram.png" width="40" /></a>
 </p>
 <hr>
 <h3>About Me </h3>
 <img width="55%" align="right" alt="Github" src="./git-header.svg" />
+
 - 🔭 I’m currently pursuing my Bachelor Degree in **Electrical Engineering**
 
 - 🌱 I’m currently learning **React, Nodejs**
