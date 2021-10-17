@@ -14,8 +14,8 @@
 </p>
 <hr>
 <h3>About Me </h3>
-<img width="55%" align="right" alt="Github" src="./git-header.svg" />
-
+<!-- <img  height="250"width="55%" align="right" alt="Github" src="./git-header.svg" /> -->
+<img  height="250" width="400" align="right" alt="Github" src="./camo.gif" />
 - 🔭 I’m currently pursuing my Bachelor Degree in **Electrical Engineering**
 
 - 🌱 I’m currently learning **React, Nodejs**
@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [resumelink.com](resumelink.com)
 
-<hr>
+<!-- <hr> -->
 
 <h3 align="left">My Skills:</h3>
 <p align="left">
