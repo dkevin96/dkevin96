@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="./Hi.gif" width="45px">, I'm Kevin</h1>
 <h3 align="center">A passionate student - Fullstack Developer</h3>
 <p align="center">
-  I love building web apps in <b>React, C++</b> , and exploring the world of <b>open-source</b>. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
+  I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's engineering, I enjoy playing video games. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
   </p>
 <p align="center">
 <!-- <a href="mailto:kevin@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/dkevin96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kevin/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
