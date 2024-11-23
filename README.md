@@ -1,59 +1,38 @@
-<h1 align="center">Hey <img src="./Hi.gif" width="45px">, I'm Kevin</h1>
-<h3 align="center">A passionate student - Fullstack Developer</h3>
+<h1 align="center">Hey <img src="./Hi.gif" width="45px">, I'm Duc</h1>
+<h3 align="center">A passionate Fullstack Developer</h3>
 <p align="center">
-  I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's engineering, I enjoy playing video games. If you're interested in a future collaboration or just want to say "hi", feel free to send me <a href="mailto:kevin@gmail.com">an email</a>.
+  I'm a creative problem solving enthusiast and a product guy, passionate about exploring the realms of coding, and building robust applications. Beside's engineering, I also enjoy playing video games.
   </p>
-<p align="center">
-<!-- <a href="mailto:kevin@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/dkevin96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kevin/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-  <a href="https://www.linkedin.com/"><img src="./linkedin.png" width="40" /></a>
-<a href="https://github.com/"><img src="./github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/"><img src="./facebook.png" width="40" /></a>
-<a href="mailto:kevinducphan96@gmail.com"><img src="./google-plus.png" width="40" /></a>
-<a href="https://twitter.com/"><img src="./twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/"><img src="./instagram.png" width="40" /></a>
-</p>
 <hr>
-<h3>About Me </h3>
+
+<h3>🚀 What I'm Up To</h3>
+
 <!-- <img  height="250"width="55%" align="right" alt="Github" src="./git-header.svg" /> -->
 <img  height="250" width="400" align="right" alt="Github" src="./camo.gif" />
-- 🔭 I’m currently pursuing my Bachelor Degree in **Electrical Engineering**
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🤖 Exploring Machine Learning, LLM
 
-- 👨‍💻 All of my projects are available at [myportfolio.com](myportfolio.com)
+- 💻 Building Spring Boot applications
 
-- 💬 Ask me about **React, Nodejs, C++**
+Check out my [ portfolio!](https://prairie-field-dab.notion.site/Hoang-Trong-Duc-Phan-14537231197580978955f7dde59f842b)
 
-- 📫 How to reach me **kevin@gmail.com**
-
-- 📄 Know about my experiences [resumelink.com](resumelink.com)
-
-<!-- <hr> -->
-
-<h3 align="left">My Skills:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-</p>
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkevin96&layout=compact&langs_count=8" alt="mygithubusernam" /></p>
+<h3 align="left">💻 My Skills:</h3>
+<p align="left">
 
-<!---
-<details>
-  <summary>My Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=dkevin96&show_icons=true&theme=tokyonight&icon_color=6392DF">
-</details>
-- 👋 Hi, I’m @dkevin96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
- <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-dkevin96/dkevin96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Languages: Python, JavaScript, Java, TypeScript, SQL, HTML5/CSS, C++
+
+- Developer Tools: Git, Docker, Kubernetes, Azure, Linux, Postman, Kafka, Jira, Cloudflare
+
+- Libraries/Frameworks: ReactJS, NodeJS, Spring Boot, Django, ExpressJS, PostgreSQL
+</p>
+
+<hr>
+
+<h3 align="left">🌐 Connect with me</h3>
+<p style="margin-left: 20px;">
+<a href="https://www.linkedin.com/in/duc-phan-aa3230203"><img src="./linkedin.png" width="40" /></a>
+<a href="mailto:ducphan122@gmx.de"><img src="./google-plus.png" width="40" /></a>
+</p>
+
