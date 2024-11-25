@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="./Hi.gif" width="45px">, I'm Duc</h1>
+<h1 align="center">Hi <img src="./Hi.gif" width="45px">, I'm Duc</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 <p align="center">
   I'm a creative problem solving enthusiast and a product guy, passionate about exploring the realms of coding, and building robust applications. Beside's engineering, I also enjoy playing video games.
